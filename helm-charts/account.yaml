@@ -12,6 +12,8 @@ env:
     value: one
   - name: ONE_ID
     value: two
+  - name: NO_ID
+    value: none
 
 containerPort: 8080
 
