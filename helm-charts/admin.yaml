@@ -1,7 +1,7 @@
 replicaCount: 1
 
 app:
-  name: admin-name
+  name: admin-name-uat1
 
 Release:
   Maintainer: my-service
