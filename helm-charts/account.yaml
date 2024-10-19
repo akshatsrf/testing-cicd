@@ -1,7 +1,7 @@
 replicaCount: 1
 
 app:
-  name: account-name
+  name: account-name-sit1
 
 Release:
   Maintainer: my-service

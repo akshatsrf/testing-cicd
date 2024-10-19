@@ -1,7 +1,7 @@
 replicaCount: 1
 
 app:
-  name: publisher-name
+  name: publisher-name-sit1
 
 Release:
   Maintainer: my-service
