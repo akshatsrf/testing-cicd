@@ -10,7 +10,7 @@ Release:
 env:
   - name: MY_ID
     value: one
-  - name: ONE_ID
+  - name: ONE_ID_ACCOUNT1234
     value: two
 
 containerPort: 8080
